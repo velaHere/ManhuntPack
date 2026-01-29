@@ -22,11 +22,11 @@ This resource pack is automatically applied to the clients if the Manhunt Plugin
 
 ## Important Notes
 1. This resource pack is not meant to be used standalone.
-      If you enable this resource pack without the Manhunt plugin,
-       many items, models, or GUIs may:
-          Not appear correctly
-          Look broken or invisible
-          Have no purpose at all
+     • If you enable this resource pack without the Manhunt plugin,
+     • many items, models, or GUIs may:
+          a. Not appear correctly
+          b. Look broken or invisible
+          c. Have no purpose at all
 
 2. It is optimized specifically for the Manhunt plugin’s internal systems.
 3. Modifying models or textures may cause unexpected behavior unless you know what you are doing.
