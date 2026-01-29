@@ -20,13 +20,13 @@ This resource pack is specifically designed for and used by the Manhunt Minecraf
 ## Installation:
 This resource pack is automatically applied to the clients if the Manhunt Plugin is installed in the server.
 
-## Important Notes
+## Important Notes:
 1. This resource pack is not meant to be used standalone.
-     1.1. If you enable this resource pack without the Manhunt plugin,
-     1.2. many items, models, or GUIs may:
-          1.2.1. Not appear correctly
-          1.2.2. Look broken or invisible
-          1.2.3. Have no purpose at all
+     - If you enable this resource pack without the Manhunt plugin:
+        - many items, models, or GUIs may:
+            - Not appear correctly
+            - Look broken or invisible
+            - Have no purpose at all
 
 2. It is optimized specifically for the Manhunt plugin’s internal systems.
 3. Modifying models or textures may cause unexpected behavior unless you know what you are doing.
